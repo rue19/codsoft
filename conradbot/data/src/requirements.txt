@@ -1,0 +1,4 @@
+cohere
+gtts
+playsound
+Pillow
